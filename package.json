@@ -1,0 +1,30 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "Continuous integration server for publishing new projects to my portfolio website.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "ts-node src/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaschahuisman/projects.git"
+  },
+  "author": "Jascha Huisman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaschahuisman/projects/issues"
+  },
+  "homepage": "https://github.com/jaschahuisman/projects#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "@types/react": "^17.0.36",
+    "fs": "0.0.1-security",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "fs-extra": "^10.0.0"
+  }
+}

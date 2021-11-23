@@ -1,0 +1,55 @@
+{
+  "slug": "twindle",
+  "title": "Twindle",
+  "repository": null,
+  "description": "Full-stack development for a digital twin IoT startup solution to help companies innovate and offer new services to customers.",
+  "date": "2020",
+  "image": "/static/images/project_twindle.png",
+  "categories": ["front-end", "back-end", "marketing"],
+  "cta": {
+    "text": "Go see Twindle!",
+    "link": "http://twindle.io/"
+  },
+  "content": [
+    {
+      "title": "Twinning is winning",
+      "content": "<p>A Digital Twin is a digital copy of an entity, such as in this case a floor of a building, which is available at all times to provide you with real-time insight into interesting and useful data. This data can form the basis of many predictions on which a product or service can improve itself at a rapid pace. Digital twins help enterprises innovate and offer new services.</p><img src='/static/images/project_twindle_application.png' />"
+    },
+    {
+      "title": "Internet of things",
+      "content": "<p>Twindle collects data about various spaces via high-end Internet of Things sensors, such as temperature, humidity, movement, light, particulate matter and CO2. Based on the type of room, Twindle interprets the data for different use cases so that the user can act on it, for example: 'At 4:00 pm, guests arrive in room 124, where it is currently too cold. Turn up the heating', or 'The door of toilet 16 has already been used 34 times today, check the toilet for an early clean.'</p>"
+    },
+    {
+      "title": "Case",
+      "content": "<p>The proof of concept of the Twindle initiative was done in collaboration with Handpicked Agencies, the municipality of Breda, Techtenna and Postillion Hotels. During my internship at Handpicked Labs I was responsible for the backend communication between the LoraWan IoT network, the database server and the front-end. I also built the front-end application with WebGL integration in React.js.'</p>"
+    }
+  ],
+  "associations": [
+    {
+      "company": "Handpicked Agencies",
+      "href": "https://www.handpickedagencies.com",
+      "image": "https://pbs.twimg.com/profile_images/951557701569581057/XUmIH9IK.jpg"
+    },
+    {
+      "company": "TechTenna",
+      "href": "https://www.techtenna.com",
+      "image": "https://techtenna.com/wp-content/uploads/2020/06/logo-techtenna-v0.jpeg"
+    },
+    {
+      "company": "Postillion Hotels",
+      "href": "https://www.postillionhotels.com/",
+      "image": "https://www.postillionhotels.com/Postillion/media/Modules/Logo-Postillion-Hotels_1.jpg?ext=.jpg"
+    }
+  ],
+  "tools": [],
+  "links": [
+    {
+      "label": "Learn more about twindle",
+      "href": "http://twindle.io/"
+    },
+    {
+      "label": "Experience the Twindle demo",
+      "href": "http://demo.twindle.io/"
+    }
+  ]
+}

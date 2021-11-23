@@ -1,0 +1,55 @@
+{
+  "slug": "human-robot",
+  "title": "Human robot interaction",
+  "repository": null,
+  "description": "Speculative interaction design research about alternative ways to control and interact with robots.",
+  "date": "2021",
+  "image": "/static/images/project_human-robot.png",
+  "categories": [
+    "interaction design",
+    "robot interfacing",
+    "speculative design"
+  ],
+  "content": [
+    {
+      "title": "Research",
+      "content": "<p>For the robotics and sensoring lectorate at the Avans Hogeschool in Breda, I did research to discover how we might interact with robotics in the future. Because the current way of dealing with robots is very dusty and obsolete, I had a very futuristic goal to control a robot with a brain computer interface (BCI).</p>"
+    },
+    {
+      "title": "Proof of concept",
+      "content": "<p>As a tech interested designer I have always been interested in the human brain. An incidental dream is making possible what seems impossible: controlling objects with your brain. Telekinesis is becoming more and more accessible with the latest technology trends. For example, take a look at <a href='https://www.next-mind.com/'>NextMind</a>. For my research I created a proof of concept with a couple of smart computer science students and the Ghost Robotics Vision 60 robot dog.</p>"
+    }
+  ],
+  "associations": [
+    {
+      "company": "Avans Hogeschool",
+      "href": "https://www.avans.nl",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_200_200/0/1550478171839?e=2159024400&v=beta&t=aR_fS8t_vmPsuaQ72oc0aBXMEXGUiiA0TNVEU19AkVE"
+    },
+    {
+      "company": "Breda Robotics",
+      "href": "https://www.breda-robotics.nl/",
+      "image": "https://www.breda-robotics.nl/public/themes/www/_compiled/images/logo.png"
+    }
+  ],
+  "tools": [
+    {
+      "name": "NextMind brain computer interface & Unity SDK",
+      "href": "https://www.next-mind.com/"
+    }
+  ],
+  "links": [
+    {
+      "label": "Discover the research paper",
+      "href": "https://www.avanscmd.nl/media/pages/work/labs-2020-2021/human-robot-alternative/d2646943ea-1631837566/onderzoeksresultaat_jascha_huisman_2121951_20_06_2021.pdf"
+    },
+    {
+      "label": "Learn more about Ghost Robotics",
+      "href": "https://www.ghostrobotics.io/"
+    },
+    {
+      "label": "Learn more about NextMind",
+      "href": "https://www.next-mind.com/"
+    }
+  ]
+}
